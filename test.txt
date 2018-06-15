@@ -1,0 +1,8 @@
+1) git init
+2) a) git config --global user.name "User_name"
+   b) git config --global user.email "User_Email"
+3) git status
+4) git add filename
+5) git commit -m "meaaningful message"
+6) git remote add origin "https://github.com/mannu29sh/html.git"
+7) git push -u origin master 
